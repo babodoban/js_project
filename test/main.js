@@ -92,6 +92,7 @@ const seanInfo2 = {
 }
 
 console.log(seanInfo2);
+console.log(seanInfo2.gender);
 
 // object 내에 array가 포함되는 것은 문제없다.
 
