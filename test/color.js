@@ -35,6 +35,8 @@
 // }
 
 // #2-6 class
+// html에서는 html을. css에서는 css를, js에서는 js를
+// 색상 정보를 다루는 건 css에 맞겨두고, js에서는 이벤트를 처리하자
 
 const clickedClass = "clicked";
 
